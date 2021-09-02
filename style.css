@@ -1,3 +1,11 @@
+
+@font-face {
+    font-family: "Inter";
+    src: url("./fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+* {
+    font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .bg-img {
     background-image: url("images/Header-llustration-desktop.png");
     background-size: cover !important;
@@ -10,6 +18,9 @@
     line-height: 60px !important;
     line-height: 103% !important;
     letter-spacing: 0.37px !important;
+}
+.mh-600{
+    min-height: 600px !important;
 }
 
 .ga-color-blue {
