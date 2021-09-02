@@ -1,0 +1,25 @@
+.bg-img {
+    background-image: url("images/Header-llustration-desktop.png");
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.header-1 {
+    font-weight: Bolder !important;
+    font-size: 48px !important;
+    line-height: 60px !important;
+    line-height: 103% !important;
+    letter-spacing: 0.37px !important;
+}
+
+.ga-color-blue {
+    color: #172b4d !important;
+}
+
+.ga-color-green {
+    color: #36b37f !important;
+}
+
+.ga-color-dark-blue {
+    color: #172b4d !important;
+}
