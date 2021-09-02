@@ -54,3 +54,8 @@
     font-size: 24px !important;
     line-height: 32px !important;
 }
+.about-bg {
+    background-image: url("./images/part1.png"), url("./images/part3.png") !important;
+    background-position: top right, left bottom;
+    background-repeat: no-repeat;
+}
