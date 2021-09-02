@@ -109,3 +109,11 @@
 .mh-700 {
     min-height: 650px !important;
 }
+
+.form-p{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 52px;
+}
