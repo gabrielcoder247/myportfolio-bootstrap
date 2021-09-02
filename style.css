@@ -1,11 +1,12 @@
-
 @font-face {
     font-family: "Inter";
     src: url("./fonts/Inter-VariableFont_slnt\,wght.ttf");
 }
+
 * {
     font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
 .bg-img {
     background-image: url("images/Header-llustration-desktop.png");
     background-size: cover !important;
@@ -19,7 +20,8 @@
     line-height: 103% !important;
     letter-spacing: 0.37px !important;
 }
-.mh-600{
+
+.mh-600 {
     min-height: 600px !important;
 }
 
@@ -40,7 +42,7 @@
 }
 
 .ga-bt {
-    background: #ebf0ee  !important;
+    background: #ebf0ee !important;
     border-radius: 4px;
 }
 
@@ -49,13 +51,61 @@
     font-size: 24px !important;
     line-height: 32px !important;
 }
+
 .ga-hearder {
     font-weight: 600 !important;
     font-size: 24px !important;
     line-height: 32px !important;
 }
+
 .about-bg {
     background-image: url("./images/part1.png"), url("./images/part3.png") !important;
     background-position: top right, left bottom;
     background-repeat: no-repeat;
+}
+
+.w-369 {
+    width: 369px !important;
+}
+
+.h-352 {
+    min-height: 352px !important;
+}
+
+.icon-language {
+    background-image: url("./images/icon-shoke.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.ga-bg-tech {
+    background-color: #ebf0ee !important;
+}
+
+.ga-btn-white {
+    background-color: #fff !important;
+}
+
+.r-0 {
+    margin-left: 60px !important;
+}
+
+.textarea-200 {
+    height: 114px;
+}
+
+
+/*
+.f-0 {
+    margin-left: 80px !important;
+} */
+
+.footer-bg {
+    background-image: url("./images/frame-left.png"), url("./images/frame-center.png"), url("./images/contact-form-illustration.png");
+    background-repeat: no-repeat;
+    background-position: top left, 30% bottom, right bottom;
+}
+
+.mh-700 {
+    min-height: 650px !important;
 }
